@@ -1,0 +1,11 @@
+/.github
+/.idea
+*.iml
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/todo-client/node_modules
+/todo-client/yarn.lock
+=======
+>>>>>>> ee90898fb14a0098074a5f30ac94e78a2524f847
+>>>>>>> 6500880 (first commit)
